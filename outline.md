@@ -52,6 +52,11 @@ simulation time is crital for AI Agent, for AI are not as smart (have "insight")
 | Level 2 | Basic ADC: 5G 7-bit Power as Lower as possible |      |      |      |      |
 |         |                                                |      |      |      |      |
 
+
+- 全国大学生集成电路创新创业大赛
+- 中国研究生创芯大赛
+- 全國大專院校IC設計競賽
+
 ### Scaffolding / Harness
 
 - Codex / Claude Code / Gemini CLI / Kimi CLI / Qwen Code -> Virtuoso Bridge Lite -> Virtuoso
